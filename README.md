@@ -1,2 +1,3 @@
-<h1 align="center" style="color:red">Всем привет!</h1>
-___
+<h1 align='center'>ВСЕМ ПРИВЕТ!</h1>
+
+---
